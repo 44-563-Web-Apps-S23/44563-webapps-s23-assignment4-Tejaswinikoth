@@ -31,3 +31,9 @@
     color: darkmagenta;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
+.name:hover{
+    color: rgb(242, 234, 0);
+    background-color: azure;
+    text-shadow: 4px 4px 4px rgb(184, 8, 43);
+    border: 1px solid black;
+}
