@@ -78,3 +78,18 @@ li a {
   padding: 8px;
   background-color: #dddddd;
 }
+p {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: blue;
+}
+#para1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: aquamarine;
+}
+.vick{
+    font: optional;
+    font-family: calc();
+    color: blueviolet;
+    background-color: aqua;
+    text-shadow:2px 3px 5px green
+}
